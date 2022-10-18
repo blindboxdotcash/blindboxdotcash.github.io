@@ -10,7 +10,7 @@
     
     if (!clientWidth) return;
     
-    console.log(clientWidth)
+    // console.log(clientWidth)
     if (clientWidth >= 750) {
     
     docEl.style.fontSize = '16px';

@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "BCH's home of games",
+  "name": "BCH's home of games",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "gameLog.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "192_192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "512_512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
